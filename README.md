@@ -30,7 +30,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/Frankenstein-hsa/Pelican.git](https://github.com/Frankenstein-hsa/Pelican.git)
+git clone [https://github.com/thedeadend23/Pelican/blob/main/Pelican.ipynb]
 cd Pelican
 
 
